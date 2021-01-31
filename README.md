@@ -11,7 +11,7 @@ Fully working MacOS 10.15 Catalina on Ryzen PC
 
 **Audio:** Realtek ALC 887
 
-**Ethernet:** RTL8111
+**Ethernet:** Realtek RTL8111
 
 **Graphics:** Galax NVidia GeForce GT710 2GB GK208
 
