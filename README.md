@@ -28,3 +28,4 @@ Fully working MacOS 10.15 Catalina on Ryzen PC
 ## Not Working
 - Discord App (Crash on audio call)
 - Ryzen iGPU (recognized has a Graphic Card 7MB)
+- MacOS BigSur
