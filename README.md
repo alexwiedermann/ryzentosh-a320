@@ -4,9 +4,13 @@ Using OpenCore 0.6.5 (https://github.com/acidanthera/OpenCorePkg)
 ## Build
 
 **Processor:** AMD Ryzen 5 3400G
+
 **Motherboard:** Asus EX-A320M-GAMING
+
 **Audio:** Realtek ALC 887
+
 **Ethernet:** RTL8111
+
 **Graphics:** Galax NVidia GeForce GT710 2GB GK208
 
 ## Disclaimer
