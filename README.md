@@ -1,6 +1,8 @@
 # ryzentosh-a320
 Using OpenCore 0.6.5 (https://github.com/acidanthera/OpenCorePkg)
 
+Fully working MacOS 10.15 Catalina on Ryzen PC
+
 ## Build
 
 **Processor:** AMD Ryzen 5 3400G
