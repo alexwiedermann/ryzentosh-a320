@@ -23,7 +23,7 @@ Fully working MacOS 10.15 Catalina on Ryzen PC
 
 ## Working
 - Ethernet(Using Realtek RTL8111 Kext)
-- Audio (Using audio fix https://github.com/astrihale/1plus1-audio-fix and AppleALC)
+- Audio (Using audio fix https://github.com/astrihale/1plus1-audio-fix and VoodooHDA)
 - Graphic Acceleration (native)
 - Docker (boot2docker https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e)
 - Kubernetes (minikube with virtualbox driver)
