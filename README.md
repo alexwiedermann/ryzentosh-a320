@@ -1,5 +1,5 @@
 # ryzentosh-a320
-Using OpenCore 0.6.6 (https://github.com/acidanthera/OpenCorePkg)
+Using OpenCore 0.7.0 (https://github.com/acidanthera/OpenCorePkg)
 
 Fully working MacOS 10.15 Catalina on Ryzen PC
 
@@ -29,7 +29,6 @@ Fully working MacOS 10.15 Catalina on Ryzen PC
 - Kubernetes (minikube with virtualbox driver)
 - Discord App (need this patch but i don't know why this works https://github.com/Pavo-IM/amd_hackintosh_discord_fix, launchctl setenv MKL_DEBUG_CPU_TYPE 5)
 - Wifi (no kext required, 2/5Ghz)
-- Graphical Boot (OpenCanopy Modern)
 
 ## Not Working
 - Ryzen iGPU (recognized has a Graphic Card 7MB)
