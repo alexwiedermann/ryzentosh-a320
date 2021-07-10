@@ -46,6 +46,7 @@ Copy docker-credential-desktop and docker to /usr/local/bin
 ```
 ln -sf /Applications/Docker.app/Contents//Resources/bin/docker-credential-desktop /usr/local/bin/
 ln -sf /Applications/Docker.app/Contents//Resources/bin/docker /usr/local/bin/
+ln -sf /Applications/Docker.app/Contents//Resources/bin/com.docker.cli /usr/local/bin/
 ```
 
 Install docker-compose
